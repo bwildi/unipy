@@ -3,6 +3,10 @@ unityrde (Unity raw data export) is a Python 3 package for pulling raw data from
 
 ## Installation
 
+```python
+python -m pip install unityrde
+```
+
 ## Quickstart guide
 Firstly, create a UnityDataImporter object and include your Unity project id and your API key:
 
