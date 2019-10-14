@@ -11,7 +11,7 @@ python -m pip install unityrde
 Firstly, create a UnityDataImporter object and include your Unity project id and your API key:
 
 ```python
-from unityrawdataexport import *
+from unityrde import *
 
 upid = "aa43ae0a-a7a7-4016-ae96-e253bb126aa8"
 key = "166291ff148b2878375a8e54aebb1549"
