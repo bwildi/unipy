@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: unipy-bwildi
+Version: 0.0.1
+Summary: A Python package for the Unity Analytics Raw Data Export REST API
+Home-page: https://github.com/bwildi/unipy
+Author: Billy Wildi
+Author-email: bwildi94@gmail.com
+License: UNKNOWN
+Description: # unipy
+        UniPy is a Python 3 package for pulling raw data from the Unity Analytics REST API: https://docs.unity3d.com/Manual/UnityAnalyticsRawDataExport.html
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
