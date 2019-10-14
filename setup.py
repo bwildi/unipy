@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Python package for the Unity Analytics Raw Data Export REST API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/bwildi/unityrde",
+    url="https://github.com/bwildi/unityrde/tree/master/unityrde",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
