@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="unityrde",
-    version="0.0.5",
+    version="0.0.6",
     author="Billy Wildi",
     author_email="bwildi94@gmail.com",
     description="A Python package for the Unity Analytics Raw Data Export REST API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/bwildi/unityrde/tree/master/unityrde",
+    url="https://github.com/bwildi/unityrde/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
