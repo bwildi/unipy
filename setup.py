@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="unityrde",
-    version="0.0.4",
+    version="0.0.5",
     author="Billy Wildi",
     author_email="bwildi94@gmail.com",
     description="A Python package for the Unity Analytics Raw Data Export REST API",

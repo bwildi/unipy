@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: unityrde
-Version: 0.0.4
+Version: 0.0.5
 Summary: A Python package for the Unity Analytics Raw Data Export REST API
 Home-page: https://github.com/bwildi/unityrde/tree/master/unityrde
 Author: Billy Wildi
