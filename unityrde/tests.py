@@ -1,6 +1,7 @@
-from unipy import *
+from unityrde import *
 from copy import copy
 import pandas as pd
+import sys
 
 def test_setup(project_id, api_key):
 
@@ -48,9 +49,9 @@ def test_create_export(udi, params):
     
 
 if __name__ == '__main__':
-    pid = # ADD PID
-    api_key = # ADD API_KEY
-    exp_id = # ADD EXPORT ID
+    pid = sys.argv[1]
+    api_key = sys.argv[2]
+    exp_id = sys.argv[3]
     udi = test_setup(pid, api_key)
 
     params = dict(startDate='2019-08-24',

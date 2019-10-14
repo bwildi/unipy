@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="unipy-bwildi",
+    name="unityrde",
     version="0.0.1",
     author="Billy Wildi",
     author_email="bwildi94@gmail.com",
