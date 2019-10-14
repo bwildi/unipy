@@ -1,5 +1,5 @@
-# unityrawdataexport
-unityrawdataexport is a Python 3 package for pulling raw data from the Unity Analytics REST API. See the [Unity documentation](https://docs.unity3d.com/Manual/UnityAnalyticsRawDataExport.html) for more information on how this works.
+# unityrde
+unityrde (Unity raw data export) is a Python 3 package for pulling raw data from the Unity Analytics REST API. See the [Unity documentation](https://docs.unity3d.com/Manual/UnityAnalyticsRawDataExport.html) for more information on how this works.
 
 ## Installation
 
