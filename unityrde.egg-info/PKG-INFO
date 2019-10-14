@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: unityrde
-Version: 0.0.1
+Version: 0.0.2
 Summary: A Python package for the Unity Analytics Raw Data Export REST API
 Home-page: https://github.com/bwildi/unityrde/tree/master/unityrde
 Author: Billy Wildi
@@ -10,6 +10,10 @@ Description: # unityrde
         unityrde (Unity raw data export) is a Python 3 package for pulling raw data from the Unity Analytics REST API. See the [Unity documentation](https://docs.unity3d.com/Manual/UnityAnalyticsRawDataExport.html) for more information on how this works.
         
         ## Installation
+        
+        ```python
+        python -m pip install unityrde
+        ```
         
         ## Quickstart guide
         Firstly, create a UnityDataImporter object and include your Unity project id and your API key:
